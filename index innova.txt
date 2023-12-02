@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="fr">
+    <head>
+        <meta charset="utf-8">
+        <title>LE titre de ma page</title>
+        <p>
+            innovatech solutions spécialisés dans le développement de logiciels sur mesure, la consultation en transformation numérique et la conception de solutions technologiques intelligentes pour améliorer l'efficacité opérationnelle:<br>
+            <img src="inno.png" alt="logo de la societe innovatech solutions " />
+            </p>
+    </head>
+    <body>
+    </body>
+</html>
